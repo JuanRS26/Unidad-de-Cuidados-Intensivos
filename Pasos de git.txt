@@ -1,7 +1,10 @@
-- git init (Funciona para inicializar un proyecto local con git)
 - git clone <Url del repositorio "https://github.com/JuanRS26/PF-Cuidados-Intensivos.git">
 - git checkout <Nombre de la rama> (Funciona para seleccionar la rama en la cual se desea trabajar)
 
+* Agregar cambios al repositorio personal en GitHub
 1. git add . (Funciona para agragar los archivos que se han modificado)
 2. git commit -m "Descripcion del cambio" (Funciona para guardar los cambios de los archivos)
 3. git push -u origin <nombre de la rama actual> (Funciona para enviar los cambios al repositorio, hechos en la rama acual)
+
+
+- git 
