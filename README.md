@@ -1,3 +1,3 @@
 Proyecto de cuidados intensivos
 
-![image](Images/Stack.jpg)
+![image](Images/stack.png)
