@@ -1,0 +1,13 @@
+Luego de realizar el proceso de extraccion y transformacion
+nosotros vamos almacenar los datos en el gestor de bases de datos MySQL
+el cual se encontrara en la nube de Google Cloud y el cual tambien funcionara
+como nuestro Data Wherehouse
+
+Este seria nuestro modelo de entidad relacion,el cual no ayuda a entender 
+cuales son las conexiones entre las tablas y la cual nos facilita la busqueda de 
+informacion entre las mismas como por ejemplo: si se quiere hacer una consulta
+de cuales medicamentos fueron recetados a un paciente la ultima vez que visito 
+la Unidad de Cuidados Intensivos, en este caso la relacion entre las tablas, 
+nos facilita la busqueda de este tipo deconsultas, si se requiere entrar a detalle 
+de cada una de las tablas, mi compañer@ dio a conocer el diccionario de las tablas 
+la cual muestra mas a detalle la informacion de cada una de las mismas 
