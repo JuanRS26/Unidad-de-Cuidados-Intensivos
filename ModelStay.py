@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.ensemble import GradientBoostingRegressor
 import streamlit as st
-import ETL_Functions as ef
+# import ETL_Functions as ef
 
 # ----------------------------------------------- Importando los datos para entrenar el modelo desde la base de datos
 
