@@ -5,7 +5,8 @@ import ETL_Functions as ef
 
 # ----------------------------------------------- Importando los datos para entrenar el modelo desde la base de datos
 
-ef.etl_model_train_stay()
+# La funcion 'ef.etl_model_train_stay()' se descomenta en el caso que haya una base de datos conectada
+# ef.etl_model_train_stay()
 
 final_df = pd.read_csv('dfModels/dfModelSaty.csv')
 
